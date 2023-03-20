@@ -1,5 +1,3 @@
-## Graphical-Analysis
-
 ## Gestalt Principles
 Gestalt Principles are an essential part of visual design. There are more than ten overlapping principles; four of the most widely recognized ones are:
 

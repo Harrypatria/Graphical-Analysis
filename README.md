@@ -2,6 +2,8 @@
 
 ![Alt Text](https://images.squarespace-cdn.com/content/v1/5cd086954d871105efcb7d89/1602512267159-79902V0GJVVJHENAJU2P/8GestaltPrinciplesofVisualPerception.png?format=2500w)
 
+![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/Python_Seaborn/Python_Seaborn_20.gif)
+
 Gestalt Principles are an essential part of visual design. There are more than ten overlapping principles; four of the most widely recognized ones are:
 
 - **Closure (Reification)**: We prefer complete shapes, so we automatically fill in 

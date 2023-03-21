@@ -1,6 +1,7 @@
 ### Python Visualization
 ![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/Python_Seaborn/Python_Seaborn_20.gif)
 
+
 ### Gestalt Principles
 
 ![Alt Text](https://images.squarespace-cdn.com/content/v1/5cd086954d871105efcb7d89/1602512267159-79902V0GJVVJHENAJU2P/8GestaltPrinciplesofVisualPerception.png?format=2500w)
